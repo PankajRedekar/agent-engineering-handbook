@@ -3,7 +3,7 @@
 ## Foundations (100–199)
 
 - [x] 101 — What Is Agent Engineering
-- [ ] 102 — The Evolution of Software
+- [x] 102 — The Evolution of Software
 - [ ] 103 — What Is an AI Agent
 - [ ] 104 — Mental Model of an Agent
 - [ ] 105 — How LLMs Changed Software
