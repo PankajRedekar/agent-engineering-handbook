@@ -9,5 +9,5 @@
 - [x] 105 — How LLMs Changed Software
 - [x] 106 — Core Building Blocks of an Agent System
 - [x] 107 — Agent Lifecycle
-- [ ] 108 — Types of Agent Systems
+- [x] 108 — Types of Agent Systems
 - [ ] 109 — Foundations Summary
