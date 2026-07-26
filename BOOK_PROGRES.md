@@ -8,6 +8,6 @@
 - [x] 104 — Mental Model of an Agent
 - [x] 105 — How LLMs Changed Software
 - [x] 106 — Core Building Blocks of an Agent System
-- [ ] 107 — Agent Lifecycle
+- [x] 107 — Agent Lifecycle
 - [ ] 108 — Types of Agent Systems
 - [ ] 109 — Foundations Summary
