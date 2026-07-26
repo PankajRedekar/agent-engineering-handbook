@@ -4,7 +4,7 @@
 
 - [x] 101 — What Is Agent Engineering
 - [x] 102 — The Evolution of Software
-- [ ] 103 — What Is an AI Agent
+- [x] 103 — What Is an AI Agent
 - [ ] 104 — Mental Model of an Agent
 - [ ] 105 — How LLMs Changed Software
 - [ ] 106 — Core Building Blocks of an Agent System
