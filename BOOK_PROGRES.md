@@ -12,7 +12,7 @@
 - [x] 108 — Types of Agent Systems
 - [x] 109 — Structured Outputs
 - [x] 110 — Prompt Engineering
-- [ ] 111 — Context Engineering
+- [x] 111 — Context Engineering
 - [ ] 112 — Tool Calling
 - [ ] 113 — Memory Systems
 - [ ] 114 — Planning & Reasoning
