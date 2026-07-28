@@ -1,5 +1,11 @@
 # The Agent Engineering Handbook
 
+## Front Matter
+
+- [x] 000 — How to Read This Handbook
+
+---
+
 ## Part I — Foundations (100–199)
 
 - [x] 101 — What Is Agent Engineering
@@ -7,26 +13,26 @@
 - [x] 103 — What Is an AI Agent
 - [x] 104 — Mental Model of an Agent
 - [x] 105 — How LLMs Changed Software
-- [x] 106 — Core Building Blocks of an Agent System
-- [x] 107 — Agent Lifecycle
-- [x] 108 — Types of Agent Systems
-- [x] 109 — Structured Outputs
+- [x] 106 — The Anatomy of an Agent System
+- [x] 107 — Agent Life Cycle
+- [x] 108 — Tool Calling
+- [x] 109 — Structured Output
 - [x] 110 — Prompt Engineering
 - [x] 111 — Context Engineering
-- [ ] 112 — Tool Calling
-- [ ] 113 — Memory Systems
+- [x] 112 — Memory Systems
+- [x] 113 — Retrieval-Augmented Generation (RAG)
 - [ ] 114 — Planning & Reasoning
-- [ ] 115 — Retrieval-Augmented Generation (RAG)
-- [ ] 116 — Model Context Protocol (MCP)
-- [ ] 117 — Agent-to-Agent (A2A) Communication
-- [ ] 118 — Agent Architectures
-- [ ] 119 — Multi-Agent Systems
-- [ ] 120 — Evaluation & Testing
-- [ ] 121 — Observability & Tracing
-- [ ] 122 — Guardrails & Safety
-- [ ] 123 — Cost, Performance & Scaling
-- [ ] 124 — Production Agent Systems
-- [ ] 125 — Foundations Review
+- [ ] 115 — Model Context Protocol (MCP)
+- [ ] 116 — Agent-to-Agent (A2A) Communication
+- [ ] 117 — Agent Architectures
+- [ ] 118 — Multi-Agent Systems
+- [ ] 119 — Evaluation & Testing
+- [ ] 120 — Observability & Tracing
+- [ ] 121 — Guardrails & Safety
+- [ ] 122 — Cost, Performance & Scaling
+- [ ] 123 — Production Agent Systems
+- [ ] 124 — Foundations Review
+- [ ] 125 — Future of Agent Engineering
 
 ---
 
